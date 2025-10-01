@@ -66,7 +66,7 @@ Perfil criado para rascunhos e estudos!!!
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="900" 
+    height="400" 
     style="padding-right: 100px;" 
     src="https://github-readme-stats.vercel.app/api?username=AmandaBrizido&show_icons=false&theme=dark&include_all_commits=true&locale=pt-br" 
   />
