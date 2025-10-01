@@ -1,4 +1,4 @@
-# Amanda Brizído 👩🏽‍💻
+# Amanda Brizído dos Santos 👩🏽‍💻
 
 
 **`Estudante`**<br>
