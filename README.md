@@ -1,13 +1,13 @@
-# Amanda Brizído dos Santos 👩🏽‍💻
+# Amanda Brizído 👩🏽‍💻
 
 
 **`Estudante`**<br>
-🎓 Ciência da Computação na Unicid <br>
-🏙️ Tatuapé, SP <br>
+ Ciência da Computação na Unicid <br>
+ Tatuapé, SP <br>
 Perfil criado para rascunhos e estudos!!!
 
 
-### Linguagens e Tecnologias 💻
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -60,7 +60,7 @@ Perfil criado para rascunhos e estudos!!!
 <br/>
 <br/>
 
-### Estatísticas 📈
+### Estatísticas 
 
 <p>
   <img 
@@ -68,14 +68,14 @@ Perfil criado para rascunhos e estudos!!!
     alt="GitHub Stats" 
     height="400" 
     style="padding-right: 100px;" 
-    src="https://github-readme-stats.vercel.app/api?username=AmandaBrizido&show_icons=false&theme=dark&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=AmandaBrizido&show_icons=false&theme=twilight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="400" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaBrizido&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaBrizido&theme=twilight&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
